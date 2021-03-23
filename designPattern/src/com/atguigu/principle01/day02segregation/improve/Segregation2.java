@@ -1,4 +1,4 @@
-package com.atguigu.principle.day02segregation;
+package com.atguigu.principle01.day02segregation.improve;
 
 /**
  * Create by koala on 2021-03-22
@@ -7,41 +7,40 @@ package com.atguigu.principle.day02segregation;
 public class Segregation2 {
 
     public static void main(String[] args) {
-        A2 a = new A2();
-        a.depend1(new B2()); // A2类通过接口去依赖B2类
-        a.depend2(new B2());
-        a.depend3(new B2());
+        A a = new A();
+        a.depend1(new B()); // A类通过接口去依赖B类
+        a.depend2(new B());
+        a.depend3(new B());
 
-        C2 c = new C2();
-
-        c.depend1(new D2()); // C2类通过接口去依赖(使用)D2类
-        c.depend4(new D2());
-        c.depend5(new D2());
+        C c = new C();
+        c.depend1(new D()); // C类通过接口去依赖(使用)D类
+        c.depend4(new D());
+        c.depend5(new D());
     }
 
 }
 
 // 接口1
-interface Interface21 {
+interface Interface1 {
     void operation1();
 
 }
 
 // 接口2
-interface Interface22 {
+interface Interface2 {
     void operation2();
 
     void operation3();
 }
 
 // 接口3
-interface Interface23 {
+interface Interface3 {
     void operation4();
 
     void operation5();
 }
 
-class B2 implements Interface21, Interface22 {
+class B implements Interface1, Interface2 {
 
     @Override
     public void operation1() {
@@ -60,7 +59,7 @@ class B2 implements Interface21, Interface22 {
 
 }
 
-class D2 implements Interface21, Interface23 {
+class D implements Interface1, Interface3 {
 
     @Override
     public void operation1() {
@@ -78,32 +77,32 @@ class D2 implements Interface21, Interface23 {
     }
 }
 
-class A2 { // A2 类通过接口Interface1,Interface2 依赖(使用) B2类，但是只会用到1,2,3方法
+class A { // A 类通过接口Interface1,Interface2 依赖(使用) B类，但是只会用到1,2,3方法
 
-    public void depend1(Interface21 i) {
+    public void depend1(Interface1 i) {
         i.operation1();
     }
 
-    public void depend2(Interface22 i) {
+    public void depend2(Interface2 i) {
         i.operation2();
     }
 
-    public void depend3(Interface22 i) {
+    public void depend3(Interface2 i) {
         i.operation3();
     }
 }
 
-class C2 { // C2 类通过接口Interface1,Interface3 依赖(使用) D2类，但是只会用到1,4,5方法
+class C { // C 类通过接口Interface1,Interface3 依赖(使用) D类，但是只会用到1,4,5方法
 
-    public void depend1(Interface21 i) {
+    public void depend1(Interface1 i) {
         i.operation1();
     }
 
-    public void depend4(Interface23 i) {
+    public void depend4(Interface3 i) {
         i.operation4();
     }
 
-    public void depend5(Interface23 i) {
+    public void depend5(Interface3 i) {
         i.operation5();
     }
 }

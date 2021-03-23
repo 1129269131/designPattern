@@ -1,4 +1,4 @@
-package com.atguigu.principle.day02segregation;
+package com.atguigu.principle01.day02segregation;
 
 /**
  * Create by koala on 2021-03-22

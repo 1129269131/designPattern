@@ -1,4 +1,4 @@
-package com.atguigu.principle.day01singleresponsibility;
+package com.atguigu.principle01.day01singleresponsibility;
 
 /**
  * Create by koala on 2021-03-22
