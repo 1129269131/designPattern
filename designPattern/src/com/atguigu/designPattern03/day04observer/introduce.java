@@ -1,4 +1,4 @@
-package com.atguigu.designPattern03.day02factory.observer05;
+package com.atguigu.designPattern03.day04observer;
 
 /**
  * Create by koala on 2021-03-24

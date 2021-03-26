@@ -1,9 +1,10 @@
-package com.atguigu.designPattern03.day02factory.observer05.demo;
+package com.atguigu.designPattern03.day04observer.demo;
 
 /**
  * Create by koala on 2021-03-24
  */
 public class Client {
+
     public static void main(String[] args) {
         //创建接入方 currentConditions
         CurrentConditions currentConditions = new CurrentConditions();
@@ -17,4 +18,5 @@ public class Client {
         System.out.println("============天气情况变化=============");
         weatherData.setData(40, 160, 20);
     }
+
 }

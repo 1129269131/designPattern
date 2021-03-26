@@ -1,4 +1,4 @@
-package com.atguigu.designPattern03.day02factory.observer05.demo.improve;
+package com.atguigu.designPattern03.day04observer.demo.improve;
 
 import java.util.ArrayList;
 

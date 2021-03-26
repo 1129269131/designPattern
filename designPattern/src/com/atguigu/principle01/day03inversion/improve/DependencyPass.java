@@ -87,7 +87,6 @@ class ChangHong2 implements ITV2 {
 
 }
 
-
 //方式3：通过setter方法传递
 interface IOpenAndClose3 {
     public void open(); // 抽象方法
