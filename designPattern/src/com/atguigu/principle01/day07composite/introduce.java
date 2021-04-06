@@ -6,5 +6,4 @@ package com.atguigu.principle01.day07composite;
  *      原则是尽量使用合成/聚合的方式，而不是使用继承
  */
 public class introduce {
-
 }

@@ -2,8 +2,8 @@ package com.atguigu.designPattern03.day02factory.simplefactory01.pizzastore.pizz
 
 /**
  * Create by koala on 2021-03-23
+ * 将Pizza 类做成抽象
  */
-//将Pizza 类做成抽象
 public abstract class Pizza {
 
     protected String name; //名字

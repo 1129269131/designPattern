@@ -11,5 +11,4 @@ package com.atguigu.principle01.day03inversion;
  *      5) 使用接口或抽象类的目的是制定好规范，而不涉及任何具体的操作，把展现细节的任务交给他们的实现类去完成
  */
 public class introduce {
-
 }

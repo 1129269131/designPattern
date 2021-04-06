@@ -5,8 +5,8 @@ import java.util.List;
 
 /**
  * Create by koala on 2021-03-23
- * 迪米特法则：只与直接的朋友通信（我们称出现在成员变量，方法参数，方法返回值中的类为直接的朋友，而
- * 出现在局部变量中的类不是直接的朋友）
+ * 迪米特法则：只与直接的朋友通信（我们称出现在成员变量，方法参数，方法返回值中的类为直接的朋友，
+ * 而出现在局部变量中的类不是直接的朋友）
  */
 //客户端
 public class Demeter {
@@ -16,12 +16,11 @@ public class Demeter {
         //创建了一个 SchoolManager 对象
         SchoolManager schoolManager = new SchoolManager();
 
-        //输出学院的员工id 和  学校总部的员工信息
+        //输出学院的员工id 和 学校总部的员工信息
         schoolManager.printAllEmployee(new CollegeManager());
     }
 
 }
-
 
 //学校总部员工类
 class Employee {

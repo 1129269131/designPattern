@@ -7,5 +7,4 @@ package com.atguigu.principle01.day02segregation;
  *      即一个类对另一个类的依赖应该建立在最小的接口上
  */
 public class introduce {
-
 }

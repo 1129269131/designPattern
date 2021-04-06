@@ -4,8 +4,8 @@ package com.atguigu.designPattern03.day01singleton.type2;
  * Create by koala on 2021-03-23
  * 饿汉式（静态代码块）：
  * 优缺点说明：
- *  1) 这种方式和SingletonTest01的方式其实类似，只不过将类实例化的过程放在了静态代码块
- *      中，也是在类装载的时候，就执行静态代码块中的代码，初始化类的实例。优缺点和SingletonTest01是一样的。
+ *  1) 这种方式和SingletonTest01的方式其实类似，只不过将类实例化的过程放在了静态代码块，
+ *      也是在类装载的时候，就执行静态代码块中的代码，初始化类的实例。优缺点和SingletonTest01是一样的。
  * 2) 结论：这种单例模式可用，但是可能造成内存浪费
  */
 public class SingletonTest02 {
@@ -24,13 +24,12 @@ public class SingletonTest02 {
 //饿汉式（静态代码块）
 class Singleton {
 
-    //1. 构造器私有化, 外部能new
+    //1. 构造器私有化, 外部不能new
     private Singleton() {
-
     }
 
     //2.本类内部创建对象实例
-    private  static Singleton instance;
+    private static Singleton instance;
 
     static { // 在静态代码块中，创建单例对象
         instance = new Singleton();

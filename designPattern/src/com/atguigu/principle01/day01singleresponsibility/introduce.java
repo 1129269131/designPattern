@@ -6,5 +6,4 @@ package com.atguigu.principle01.day01singleresponsibility;
  *      对类来说的，即一个类应该只负责一项职责
  */
 public class introduce {
-
 }

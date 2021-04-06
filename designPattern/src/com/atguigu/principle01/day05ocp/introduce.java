@@ -8,5 +8,4 @@ package com.atguigu.principle01.day05ocp;
  *      3) 编程中遵循其它原则，以及使用设计模式的目的就是遵循开闭原则
  */
 public class introduce {
-
 }

@@ -2,8 +2,9 @@ package com.atguigu.designPattern03.day03decorator.demo;
 
 /**
  * Create by koala on 2021-03-24
+ * 巧克力
  */
-//具体的Decorator， 这里就是调味品
+//具体的Decorator，这里就是调味品
 public class Chocolate extends Decorator {
 
     public Chocolate(Drink obj) {

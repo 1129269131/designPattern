@@ -10,5 +10,4 @@ package com.atguigu.designPattern03.day02factory.simplefactory01.pizzastore;
  *      3) 在软件开发中，当我们会用到大量的创建某种、某类或者某批对象时，就会使用到工厂模式。
  */
 public class introduce {
-
 }

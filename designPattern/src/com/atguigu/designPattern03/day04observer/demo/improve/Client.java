@@ -21,7 +21,7 @@ public class Client {
         System.out.println("通知各个注册的观察者, 看看信息");
         weatherData.setData(10f, 100f, 30.3f);
 
-
+        //移除观察者
         weatherData.removeObserver(currentConditions);
         //测试
         System.out.println();

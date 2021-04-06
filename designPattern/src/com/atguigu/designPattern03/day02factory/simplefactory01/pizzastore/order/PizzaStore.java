@@ -13,13 +13,13 @@ public class PizzaStore {
 
     public static void main(String[] args) {
         //传统方式调用
-        //new OrderPizza();
+        new OrderPizza0();
 
         //方式一：使用简单工厂模式
-        //new OrderPizza(new SimpleFactory());
+        //new OrderPizza1(new SimpleFactory());
 
         //方式二：使用静态工厂模式
-        new OrderPizza2();
+        //new OrderPizza2();
 
         System.out.println("~~退出程序~~");
     }

@@ -22,7 +22,6 @@ public class DependencyPass {
         OpenAndClose3 openAndClose3 = new OpenAndClose3();
         openAndClose3.setTv(changHong3);
         openAndClose3.open();
-
     }
 
 }

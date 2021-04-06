@@ -2,7 +2,7 @@ package com.atguigu.principle01.day05ocp.improve;
 
 /**
  * Create by koala on 2021-03-23
- * 开闭原则：对扩展开放(提供方)，对修改关闭(使用方)。
+ * 开闭原则：对扩展开放(提供方)，对修改关闭(使用方)
  */
 public class Ocp {
 
@@ -26,7 +26,7 @@ class GraphicEditor {
 
 }
 
-//Shape类，基类
+//Shape类，基类 [提供方]
 abstract class Shape {
     int m_type;
 

@@ -2,6 +2,7 @@ package com.atguigu.designPattern03.day03decorator.demo;
 
 /**
  * Create by koala on 2021-03-24
+ * 被装饰者
  */
 public abstract class Drink {
 

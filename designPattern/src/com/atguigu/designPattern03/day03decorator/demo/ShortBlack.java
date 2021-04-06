@@ -2,6 +2,7 @@ package com.atguigu.designPattern03.day03decorator.demo;
 
 /**
  * Create by koala on 2021-03-24
+ * 单品咖啡
  */
 public class ShortBlack extends Coffee {
 

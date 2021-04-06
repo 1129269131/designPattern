@@ -4,8 +4,8 @@ package com.atguigu.principle01.day04liskov.improve;
  * Create by koala on 2021-03-23
  * 里氏替换原则：
  *      1、在使用继承时，遵循里氏替换原则，在子类中尽量不要重写父类的方法
- *      2、继承实际上让两个类耦合性增强了，在适当的情况下，可
- *         以通过聚合，组合，依赖 来解决问题
+ *      2、继承实际上让两个类耦合性增强了，在适当的情况下，
+ *          可以通过聚合，组合，依赖 来解决问题
  */
 public class Liskov {
 
@@ -48,7 +48,6 @@ class B extends Base {
     //如果B需要使用A类的方法,使用组合关系
     private A a = new A();
 
-    //这里，重写了A类的方法, 可能是无意识
     public int func1(int a, int b) {
         return a + b;
     }

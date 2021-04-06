@@ -8,5 +8,4 @@ package com.atguigu.principle01.day04liskov;
  *          可以通过聚合，组合，依赖 来解决问题
  */
 public class introduce {
-
 }

@@ -23,7 +23,6 @@ public class Segregation2 {
 // 接口1
 interface Interface1 {
     void operation1();
-
 }
 
 // 接口2
@@ -77,7 +76,7 @@ class D implements Interface1, Interface3 {
     }
 }
 
-class A { // A 类通过接口Interface1,Interface2 依赖(使用) B类，但是只会用到1,2,3方法
+class A { // A类通过接口Interface1,Interface2 依赖(使用) B类，但是只会用到1,2,3方法
 
     public void depend1(Interface1 i) {
         i.operation1();
@@ -92,7 +91,7 @@ class A { // A 类通过接口Interface1,Interface2 依赖(使用) B类，但是
     }
 }
 
-class C { // C 类通过接口Interface1,Interface3 依赖(使用) D类，但是只会用到1,4,5方法
+class C { // C类通过接口Interface1,Interface3 依赖(使用) D类，但是只会用到1,4,5方法
 
     public void depend1(Interface1 i) {
         i.operation1();

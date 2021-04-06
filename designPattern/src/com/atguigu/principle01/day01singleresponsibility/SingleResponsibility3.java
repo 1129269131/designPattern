@@ -31,7 +31,7 @@ class Vehicle2 {
     }
 
     public void runWater(String vehicle) {
-        System.out.println(vehicle + " 在水中行....");
+        System.out.println(vehicle + " 在水中运行....");
     }
 
 }

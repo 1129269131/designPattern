@@ -5,11 +5,6 @@ package com.atguigu.principle01.day02segregation;
  * 接口隔离原则
  */
 public class Segregation1 {
-
-    public static void main(String[] args) {
-
-    }
-
 }
 
 //接口

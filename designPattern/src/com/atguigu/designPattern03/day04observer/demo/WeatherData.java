@@ -5,15 +5,15 @@ package com.atguigu.designPattern03.day04observer.demo;
  * 此类是核心
  * 1. 包含最新的天气情况信息
  * 2. 含有 CurrentConditions 对象
- * 3. 当数据有更新时，就主动的调用   CurrentConditions对象update方法(含 display), 这样他们（接入方）就看到最新的信息
+ * 3. 当数据有更新时，就主动的调用 CurrentConditions对象update方法(含 display), 这样他们（接入方）就看到最新的信息
  */
 public class WeatherData {
     private float temperatrue;
     private float pressure;
     private float humidity;
     private CurrentConditions currentConditions;
-    //加入新的第三方
 
+    //加入新的第三方
     public WeatherData(CurrentConditions currentConditions) {
         this.currentConditions = currentConditions;
     }
@@ -40,7 +40,7 @@ public class WeatherData {
         this.temperatrue = temperature;
         this.pressure = pressure;
         this.humidity = humidity;
-        //调用dataChange， 将最新的信息 推送给 接入方 currentConditions
+        //调用dataChange，将最新的信息 推送给 接入方 currentConditions
         dataChange();
     }
 }
