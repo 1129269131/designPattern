@@ -42,7 +42,7 @@ class A extends Base {
     }
 }
 
-// B类继承了A
+// B类继承了Base类
 // 增加了一个新功能：完成两个数相加,然后和9求和
 class B extends Base {
     //如果B需要使用A类的方法,使用组合关系

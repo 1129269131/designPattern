@@ -13,5 +13,4 @@ package com.atguigu.designPattern03;
  *          解释器模式（Interpreter模式）、状态模式、策略模式、职责链模式(责任链模式)
  */
 public class day00designPattern {
-
 }
