@@ -10,5 +10,4 @@ package com.atguigu.designPattern03.day05prototype;
  * Create by koala on 2021-06-03
  */
 public class introduce {
-
 }
