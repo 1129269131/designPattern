@@ -9,5 +9,5 @@ package com.atguigu.designPattern03.day05prototype;
  *      4) 形象的理解：孙大圣拔出猴毛，变出其它孙大圣
  * Create by koala on 2021-06-03
  */
-public class introduce {
+public class Introduce {
 }

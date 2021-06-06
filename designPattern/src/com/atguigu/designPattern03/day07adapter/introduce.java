@@ -24,5 +24,5 @@ package com.atguigu.designPattern03.day07adapter;
  *      4) 实际开发中，实现起来不拘泥于我们讲解的三种经典形式
  * Create by koala on 2021-06-05
  */
-public class introduce {
+public class Introduce {
 }

@@ -18,5 +18,5 @@ package com.atguigu.designPattern03.day07adapter.demo.objectadapter;
  *          2) 使用成本更低，更灵活。
  * Create by koala on 2021-06-05
  */
-public class introduce {
+public class Introduce {
 }

@@ -9,5 +9,5 @@ package com.atguigu.designPattern03.day07adapter.demo.interfaceadapter;
  *          3) 适用于一个接口不想使用其所有的方法的情况。
  * Create by koala on 2021-06-05
  */
-public class introduce {
+public class Introduce {
 }

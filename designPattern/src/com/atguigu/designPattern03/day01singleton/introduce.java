@@ -14,5 +14,5 @@ package com.atguigu.designPattern03.day01singleton;
  *          耗费资源过多(即：重量级对象)，但又经常用到的对象、工具类对象、频繁访问数据库
  *          或文件的对象(比如数据源、session工厂等)
  */
-public class introduce {
+public class Introduce {
 }

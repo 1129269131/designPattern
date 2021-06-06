@@ -6,5 +6,5 @@ package com.atguigu.designPattern03.day04observer;
  *    对象之间多对一依赖的一种设计方案，被依赖的对象为Subject，
  *      依赖的对象为Observer，Subject通知Observer变化
  */
-public class introduce {
+public class Introduce {
 }

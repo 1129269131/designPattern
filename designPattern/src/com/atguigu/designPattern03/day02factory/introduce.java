@@ -12,5 +12,5 @@ package com.atguigu.designPattern03.day02factory;
  *           不要让类继承具体类，而是继承抽象类或者是实现interface(接口)
  *           不要覆盖基类中已经实现的方法。
  */
-public class introduce {
+public class Introduce {
 }

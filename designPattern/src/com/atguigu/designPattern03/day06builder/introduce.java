@@ -15,5 +15,5 @@ package com.atguigu.designPattern03.day06builder;
  *              它主要有两个作用，一是：隔离了客户与对象的生产过程，二是：负责控制产品对象的生产过程。
  * Create by koala on 2021-06-05
  */
-public class introduce {
+public class Introduce {
 }

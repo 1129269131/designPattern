@@ -16,5 +16,5 @@ package com.atguigu.designPattern03.day07adapter.demo.classadapter;
  *          3) 由于其继承了src类，所以它可以根据需求重写src类的方法，使得Adapter的灵活性增强了。
  * Create by koala on 2021-06-05
  */
-public class introduce {
+public class Introduce {
 }
