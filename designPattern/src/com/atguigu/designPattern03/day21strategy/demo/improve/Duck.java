@@ -7,6 +7,7 @@ public abstract class Duck {
 
     //属性, 策略接口
     FlyBehavior flyBehavior;
+
     //其它属性<->策略接口
     QuackBehavior quackBehavior;
 
@@ -29,12 +30,12 @@ public abstract class Duck {
         if (flyBehavior != null) {
             flyBehavior.fly();
         }
+
     }
 
     public void setFlyBehavior(FlyBehavior flyBehavior) {
         this.flyBehavior = flyBehavior;
     }
-
 
     public void setQuackBehavior(QuackBehavior quackBehavior) {
         this.quackBehavior = quackBehavior;

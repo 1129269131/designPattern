@@ -4,6 +4,7 @@ package com.atguigu.designPattern03.day05prototype.demo;
  * Create by koala on 2021-06-03
  */
 public class Sheep {
+
     private String name;
     private int age;
     private String color;

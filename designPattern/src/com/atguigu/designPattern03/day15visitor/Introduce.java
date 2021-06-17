@@ -11,9 +11,9 @@ package com.atguigu.designPattern03.day15visitor;
  *              同时需要避免让这些操作"污染"这些对象的类，可以选用访问者模式解决
  *
  *      访问者模式的角色及职责：
- *          1) Visitor： 是抽象访问者，为该对象结构中的ConcreteElement的每一个类声明一个visit操作
+ *          1) Visitor：是抽象访问者，为该对象结构中的ConcreteElement的每一个类声明一个visit操作
  *          2) ConcreteVisitor：是一个具体的访问值 实现每个有Visitor 声明的操作，是每个操作实现的部分.
- *          3) ObjectStructure 能枚举它的元素，可以提供一个高层的接口，用来允许访问者访问元素
+ *          3) ObjectStructure：能枚举它的元素，可以提供一个高层的接口，用来允许访问者访问元素
  *          4) Element：定义一个accept 方法，接收一个访问者对象
  *          5) ConcreteElement：为具体元素，实现了accept 方法
  *

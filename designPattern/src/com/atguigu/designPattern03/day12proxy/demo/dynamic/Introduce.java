@@ -9,7 +9,7 @@ package com.atguigu.designPattern03.day12proxy.demo.dynamic;
  *          3）动态代理也叫做：JDK 代理、接口代理
  *
  *      JDK中生成代理对象的API
- *          1）代理类所在包:java.lang.reflect.Proxy
+ *          1）代理类所在包：java.lang.reflect.Proxy
  *          2）JDK 实现代理只需要使用 newProxyInstance 方法,但是该方法需要接收三个参数,完整的写法是：
  *              static Object newProxyInstance(ClassLoader loader, Class<?>[] interfaces, InvocationHandler h)
  * Create by koala on 2021-06-06

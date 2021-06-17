@@ -15,7 +15,7 @@ public abstract class Phone {
     }
 
     protected void open() {
-        this.brand.open();
+        brand.open();
     }
 
     protected void close() {

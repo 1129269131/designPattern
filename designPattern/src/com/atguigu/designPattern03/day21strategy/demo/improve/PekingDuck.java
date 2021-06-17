@@ -9,7 +9,6 @@ public class PekingDuck extends Duck {
     //假如北京鸭可以飞翔，但是飞翔技术一般
     public PekingDuck() {
         flyBehavior = new BadFlyBehavior();
-
     }
 
     @Override

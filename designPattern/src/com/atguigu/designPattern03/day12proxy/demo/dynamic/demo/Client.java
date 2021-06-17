@@ -13,7 +13,7 @@ public class Client {
         ITeacherDao proxyInstance = (ITeacherDao) new ProxyFactory(target).getProxyInstance();
 
         // proxyInstance=class com.sun.proxy.$Proxy0 内存中动态生成了代理对象
-        System.out.println("proxyInstance=" + proxyInstance.getClass());
+        System.out.println("proxyInstance = " + proxyInstance.getClass());
 
         //通过代理对象，调用目标对象的方法
         //proxyInstance.teach();

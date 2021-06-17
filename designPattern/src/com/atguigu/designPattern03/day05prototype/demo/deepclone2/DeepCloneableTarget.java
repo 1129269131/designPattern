@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * Create by koala on 2021-06-03
  */
-public class DeepCloneableTarget implements Serializable, Cloneable {
+public class DeepCloneableTarget implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
@@ -17,11 +17,5 @@ public class DeepCloneableTarget implements Serializable, Cloneable {
     public DeepCloneableTarget(String cloneName, String cloneClass) {
         this.cloneName = cloneName;
         this.cloneClass = cloneClass;
-    }
-
-    //因为该类的属性，都是String , 因此我们这里使用默认的clone完成即可
-    @Override
-    protected Object clone() throws CloneNotSupportedException {
-        return super.clone();
     }
 }

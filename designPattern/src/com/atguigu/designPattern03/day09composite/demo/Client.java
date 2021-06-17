@@ -28,7 +28,7 @@ public class Client {
 
         university.print();
 
-        System.out.println("------------------------分隔符------------------------");
+        System.out.println("------------------------ 分隔符 ------------------------");
 
         infoEngineercollege.print();
     }

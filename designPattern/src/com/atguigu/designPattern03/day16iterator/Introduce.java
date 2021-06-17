@@ -13,7 +13,7 @@ package com.atguigu.designPattern03.day16iterator;
  *          1）Iterator：迭代器接口，是由系统提供的，含有hasNext, next, remove方法
  *          2）ConcreteIterator：具体的迭代器类，实现迭代器接口，管理迭代
  *          3）Aggregate：一个统一的聚合接口，将客户端和具体的聚合解耦
- *          4）ConcreteAggreage：具体的聚合持有对象集合，并提供一个方法，返回一个迭代器，该迭代器可以正确遍历集合(因为每个迭代器都和聚合有对应关系)
+ *          4）ConcreteAggregate：具体的聚合持有对象集合，并提供一个方法，返回一个迭代器，该迭代器可以正确遍历集合(因为每个迭代器都和聚合有对应关系)
  *          5）Client：客户端，通过 Iterator 和 Aggregate 来依赖它们的子类
  *
  *      迭代器模式的注意事项和细节

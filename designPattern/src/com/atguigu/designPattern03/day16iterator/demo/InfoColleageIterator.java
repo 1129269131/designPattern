@@ -11,7 +11,6 @@ public class InfoColleageIterator implements Iterator {
     List<Department> departmentList; // 信息工程学院是以List方式存放系
     int index = -1;//索引
 
-
     public InfoColleageIterator(List<Department> departmentList) {
         this.departmentList = departmentList;
     }
@@ -33,6 +32,7 @@ public class InfoColleageIterator implements Iterator {
     }
 
     //空实现remove
+    @Override
     public void remove() {
     }
 

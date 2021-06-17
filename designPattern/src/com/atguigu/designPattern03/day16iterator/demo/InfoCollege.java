@@ -12,7 +12,7 @@ public class InfoCollege implements College {
     List<Department> departmentList;
 
     public InfoCollege() {
-        departmentList = new ArrayList<Department>();
+        departmentList = new ArrayList<>();
         addDepartment("信息安全专业", " 信息安全专业 ");
         addDepartment("网络安全专业", " 网络安全专业 ");
         addDepartment("服务器安全专业", " 服务器安全专业 ");

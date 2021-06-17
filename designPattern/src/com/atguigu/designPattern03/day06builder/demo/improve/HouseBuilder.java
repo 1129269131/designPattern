@@ -15,7 +15,7 @@ public abstract class HouseBuilder {
 
     public abstract void roofed();
 
-    //建造房子好， 将产品(房子) 返回
+    //建造房子好，将产品(房子) 返回
     public House buildHouse() {
         return house;
     }

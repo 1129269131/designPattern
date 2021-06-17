@@ -12,7 +12,6 @@ public class Client {
         // 客户要一个以新闻形式发布的网站
         WebSite webSite1 = factory.getWebSiteCategory("新闻");
 
-
         webSite1.use(new User("tom"));
 
         // 客户要一个以博客形式发布的网站
@@ -30,7 +29,7 @@ public class Client {
 
         webSite4.use(new User("king"));
 
-        System.out.println("网站的分类共=" + factory.getWebSiteCount());
+        System.out.println("网站的分类共 = " + factory.getWebSiteCount());
     }
 
 }

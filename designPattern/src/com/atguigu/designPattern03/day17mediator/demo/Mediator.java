@@ -1,6 +1,7 @@
 package com.atguigu.designPattern03.day17mediator.demo;
 
 /**
+ * 抽象中介者类
  * Create by koala on 2021-06-08
  */
 public abstract class Mediator {

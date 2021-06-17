@@ -2,7 +2,7 @@ package com.atguigu.designPattern03.day20state.demo;
 
 /**
  * 奖品发放完毕状态
- * 说明，当我们activity 改变成 DispenseOutState， 抽奖活动结束
+ * 说明，当我们activity 改变成 DispenseOutState，抽奖活动结束
  * Create by koala on 2021-06-09
  */
 public class DispenseOutState extends State {

@@ -5,9 +5,9 @@ import java.util.ArrayList;
 /**
  * Create by koala on 2021-03-24
  * 此类是核心
- * 1. 包含最新的天气情况信息
- * 2. 含有 观察者集合，使用ArrayList管理
- * 3. 当数据有更新时，就主动的调用  ArrayList, 通知所有的（接入方）就看到最新的信息
+ *      1.包含最新的天气情况信息
+ *      2.含有观察者集合，使用ArrayList管理
+ *      3.当数据有更新时，就主动的调用 ArrayList, 通知所有的（接入方）就看到最新的信息
  */
 public class WeatherData implements Subject {
 

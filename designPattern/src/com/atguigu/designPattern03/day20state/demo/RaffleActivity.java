@@ -8,6 +8,7 @@ public class RaffleActivity {
 
     // state 表示活动当前的状态，是变化
     State state = null;
+
     // 奖品数量
     int count = 0;
 
@@ -19,7 +20,7 @@ public class RaffleActivity {
     State dispensOutState = new DispenseOutState(this);
 
     //构造器
-    //1. 初始化当前的状态为 noRafflleState（即不能抽奖的状态）
+    //1. 初始化当前的状态为 noRaffleState（即不能抽奖的状态）
     //2. 初始化奖品的数量
     public RaffleActivity(int count) {
         this.state = getNoRafflleState();

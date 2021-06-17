@@ -15,7 +15,7 @@ public class Client {
         ViceSchoolMasterApprover viceSchoolMasterApprover = new ViceSchoolMasterApprover("王副校");
         SchoolMasterApprover schoolMasterApprover = new SchoolMasterApprover("佟校长");
 
-        //需要将各个审批级别的下一个设置好 (处理人构成环形: )
+        //需要将各个审批级别的下一个设置好 (处理人构成环形)
         departmentApprover.setApprover(collegeApprover);
         collegeApprover.setApprover(viceSchoolMasterApprover);
         viceSchoolMasterApprover.setApprover(schoolMasterApprover);

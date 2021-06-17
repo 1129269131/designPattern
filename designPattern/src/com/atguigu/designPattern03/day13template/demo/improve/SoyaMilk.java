@@ -23,7 +23,7 @@ public abstract class SoyaMilk {
         System.out.println("第一步：选择好的新鲜黄豆  ");
     }
 
-    //添加不同的配料， 抽象方法, 子类具体实现
+    //添加不同的配料，抽象方法，子类具体实现
     abstract void addCondiments();
 
     //浸泡

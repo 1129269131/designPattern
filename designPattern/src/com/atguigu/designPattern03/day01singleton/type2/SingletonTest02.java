@@ -3,10 +3,10 @@ package com.atguigu.designPattern03.day01singleton.type2;
 /**
  * Create by koala on 2021-03-23
  * 饿汉式（静态代码块）：
- * 优缺点说明：
- *  1) 这种方式和SingletonTest01的方式其实类似，只不过将类实例化的过程放在了静态代码块，
- *      也是在类装载的时候，就执行静态代码块中的代码，初始化类的实例。优缺点和SingletonTest01是一样的。
- * 2) 结论：这种单例模式可用，但是可能造成内存浪费
+ *      优缺点说明：
+ *          1) 这种方式和SingletonTest01的方式其实类似，只不过将类实例化的过程放在了静态代码块，
+ *              也是在类装载的时候，就执行静态代码块中的代码，初始化类的实例。优缺点和SingletonTest01是一样的。
+ *          2) 结论：这种单例模式可用，但是可能造成内存浪费
  */
 public class SingletonTest02 {
 

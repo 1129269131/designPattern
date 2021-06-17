@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class University extends OrganizationComponent {
 
-    List<OrganizationComponent> organizationComponents = new ArrayList<OrganizationComponent>();
+    List<OrganizationComponent> organizationComponents = new ArrayList<>();
 
     // 构造器
     public University(String name, String des) {

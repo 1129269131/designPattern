@@ -3,7 +3,7 @@ package com.atguigu.designPattern03.day19interpreter.demo;
 import java.util.HashMap;
 
 /**
- * 抽象类表达式，通过HashMap 键值对, 可以获取到变量的值
+ * 抽象类表达式，通过HashMap 键值对,可以获取到变量的值
  * Create by koala on 2021-06-09
  */
 public abstract class Expression {

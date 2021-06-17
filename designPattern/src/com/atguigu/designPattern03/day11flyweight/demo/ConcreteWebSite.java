@@ -1,7 +1,7 @@
 package com.atguigu.designPattern03.day11flyweight.demo;
 
 /**
- * 具体网站
+ * 具体网站类
  * Create by koala on 2021-06-06
  */
 public class ConcreteWebSite extends WebSite {
@@ -16,7 +16,7 @@ public class ConcreteWebSite extends WebSite {
 
     @Override
     public void use(User user) {
-        System.out.println("网站的发布形式为:" + type + " 在使用中 .. 使用者是" + user.getName());
+        System.out.println("网站的发布形式为：" + type + " 在使用中 .. 使用者是" + user.getName());
     }
 
 }

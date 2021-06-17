@@ -5,6 +5,7 @@ package com.atguigu.designPattern03.day04observer.demo;
  * 显示当前天气情况（可以理解成是气象站自己的网站）
  */
 public class CurrentConditions {
+
     // 温度，气压，湿度
     private float temperature;
     private float pressure;

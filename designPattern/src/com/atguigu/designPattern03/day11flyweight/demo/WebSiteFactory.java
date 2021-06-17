@@ -3,7 +3,7 @@ package com.atguigu.designPattern03.day11flyweight.demo;
 import java.util.HashMap;
 
 /**
- * 网站工厂类，根据需要返回压一个网站
+ * 网站工厂类，根据需要返回一个网站
  * Create by koala on 2021-06-06
  */
 public class WebSiteFactory {
@@ -13,7 +13,7 @@ public class WebSiteFactory {
     //根据网站的类型，返回一个网站, 如果没有就创建一个网站，并放入到池中,并返回
     public WebSite getWebSiteCategory(String type) {
         if (!pool.containsKey(type)) {
-            //就创建一个网站，并放入到池中
+            //创建一个网站，并放入到池中
             pool.put(type, new ConcreteWebSite(type));
         }
 

@@ -5,8 +5,9 @@ package com.atguigu.designPattern03.day14command.demo;
  */
 public class RemoteController {
 
-    // 开 按钮的命令数组
+    // 开按钮的命令数组
     Command[] onCommands;
+    // 关按钮的命令数组
     Command[] offCommands;
 
     // 执行撤销的命令

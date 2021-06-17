@@ -7,7 +7,7 @@ public class ToyDuck extends Duck {
 
     @Override
     public void display() {
-        System.out.println("玩具鸭");
+        System.out.println("~~玩具鸭~~");
     }
 
     //需要重写父类的所有方法

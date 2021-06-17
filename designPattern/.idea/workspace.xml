@@ -15,114 +15,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day00designPattern.java">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/Introduce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="405">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type1/SingletonTest01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="26" column="48" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="48" />
+            <state relative-caret-position="459">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Memento.java">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type2/SingletonTest02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-628">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type3/SingletonTest03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type4/SingletonTest04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type5/SingletonTest05.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-              </folding>
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Originator.java">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type6/SingletonTest06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Caretaker.java">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type7/SingletonTest07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="243">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/DepartmentApprover.java">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/Introduce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="47">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/SchoolMasterApprover.java">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day15visitor/Introduce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-              <folding>
-                <element signature="e#235#236#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/ViceSchoolMasterApprover.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-              <folding>
-                <element signature="e#243#244#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/PurchaseRequest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="476">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -145,61 +122,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day17mediator/Introduce.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/game/GameRole.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/game/Memento.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/game/Caretaker.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/game/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Memento.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Originator.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/Introduce.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/Expression.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/AddExpression.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/SubExpression.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/SymbolExpression.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/VarExpression.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/Introduce.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/State.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/RaffleActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/NoRaffleState.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/DispenseState.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/DispenseOutState.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/CanRaffleState.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/Introduce.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/Duck.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/PekingDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/ToyDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/WildDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/Duck.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/FlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/GoodFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/NoFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/PekingDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/QuackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/ToyDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/WildDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/BadFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/JDKArrays/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/Introduce.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/Approver.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/CollegeApprover.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/PurchaseRequest.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/DepartmentApprover.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/SchoolMasterApprover.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/ViceSchoolMasterApprover.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/Introduce.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Caretaker.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/dynamic/demo/ProxyFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/dynamic/demo/TeacherDao.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/dynamic/demo/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/cglib/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/cglib/demo/ProxyFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/cglib/demo/TeacherDao.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/cglib/demo/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day11flyweight/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day11flyweight/demo/WebSite.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day11flyweight/demo/ConcreteWebSite.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day11flyweight/demo/WebSiteFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day11flyweight/demo/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day09composite/demo/University.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day09composite/demo/College.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day09composite/demo/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day08bridge/demo/Vivo.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day08bridge/demo/Phone.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day09composite/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day08bridge/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day07adapter/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day07adapter/demo/classadapter/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day07adapter/demo/classadapter/demo/Voltage220V.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day07adapter/demo/classadapter/demo/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day06builder/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day06builder/demo/AbstractHouse.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day06builder/demo/improve/HouseBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day06builder/demo/improve/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day05prototype/demo/Sheep.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day05prototype/demo/improve/Sheep.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day05prototype/demo/deepclone1/DeepProtoType.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day05prototype/demo/deepclone1/DeepCloneableTarget.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day05prototype/demo/deepclone2/DeepProtoType.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day05prototype/demo/deepclone2/DeepCloneableTarget.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day05prototype/demo/deepclone2/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day05prototype/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/CurrentConditions.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/improve/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day00designPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/order/OrderPizza0.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/Introduce.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type1/SingletonTest01.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type2/SingletonTest02.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type3/SingletonTest03.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type4/SingletonTest04.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type5/SingletonTest05.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type6/SingletonTest06.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type7/SingletonTest07.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="431" />
     <option name="y" value="222" />
     <option name="width" value="1380" />
@@ -251,7 +228,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
-              <item name="day02factory" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -260,7 +237,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
-              <item name="day18memento" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -269,8 +247,9 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
-              <item name="day18memento" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type1" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonTest01.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -279,9 +258,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
-              <item name="day18memento" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="theory" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -290,7 +268,9 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
-              <item name="day19interpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type2" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonTest02.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -299,7 +279,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
-              <item name="day20state" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -308,7 +289,111 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
-              <item name="day21strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type3" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonTest03.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type4" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonTest04.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type5" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonTest05.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type6" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonTest06.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day01singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="type7" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonTest07.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day12proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern03" type="462c0819:PsiDirectoryNode" />
+              <item name="day15visitor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -321,15 +406,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623250392948" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623901232113" />
     <property name="last_opened_file_path" value="D:/软件学习/DIY脚本/尚硅谷图解Java设计模式/笔记代码课件资料/资料/Spring/lib/spring-core-4.0.0.RELEASE.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -365,13 +450,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.CoffeeBar">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day18memento.demo.theory.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day05prototype.demo.deepclone1.Client" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.designPattern03.day18memento.demo.theory.*" />
+          <option name="PATTERN" value="com.atguigu.designPattern03.day05prototype.demo.deepclone1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,11 +465,11 @@
       </method>
     </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day20state.demo.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day04observer.demo.improve.Client" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.designPattern03.day20state.demo.*" />
+          <option name="PATTERN" value="com.atguigu.designPattern03.day04observer.demo.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,11 +478,11 @@
       </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day21strategy.demo.improve.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day05prototype.demo.deepclone2.Client" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.designPattern03.day21strategy.demo.improve.*" />
+          <option name="PATTERN" value="com.atguigu.designPattern03.day05prototype.demo.deepclone2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,12 +490,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day22responsibilitychain.demo.Client" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day04observer.demo.Client" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.designPattern03.day22responsibilitychain.demo.*" />
+          <option name="PATTERN" value="com.atguigu.designPattern03.day04observer.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,12 +503,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day21strategy.demo.JDKArrays.Strategy" />
+    <configuration name="CoffeeBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day03decorator.demo.CoffeeBar" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.designPattern03.day21strategy.demo.JDKArrays.*" />
+          <option name="PATTERN" value="com.atguigu.designPattern03.day03decorator.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -433,11 +518,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Strategy" />
-        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.CoffeeBar" />
         <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -472,14 +557,16 @@
       <workItem from="1623245999180" duration="4110000" />
       <workItem from="1623250213702" duration="35000" />
       <workItem from="1623250325727" duration="106000" />
+      <workItem from="1623806199304" duration="9949000" />
+      <workItem from="1623896071490" duration="5387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79129000" />
+    <option name="totallyTimeSpent" value="94465000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -488,7 +575,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.22441365" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.22867803" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info id="Alibaba Cloud Explorer" order="8" />
       <window_info anchor="bottom" id="Spring" order="0" />
@@ -500,7 +587,7 @@
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" />
-      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49946696" weight="0.37201735" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49946696" visible="true" weight="0.48481563" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -527,560 +614,356 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/game/GameRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/game/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/Introduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/AddExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/beans/Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1929">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/SubExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/SymbolExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/VarExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/demo/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day19interpreter/Introduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/NoRaffleState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding>
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/DispenseState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/DispenseOutState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/CanRaffleState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/demo/RaffleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding>
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1272#1273#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1368#1369#0" expanded="true" />
-            <element signature="e#1420#1421#0" expanded="true" />
-            <element signature="e#1460#1461#0" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
-            <element signature="e#1556#1557#0" expanded="true" />
-            <element signature="e#1608#1609#0" expanded="true" />
-            <element signature="e#1647#1648#0" expanded="true" />
-            <element signature="e#1683#1684#0" expanded="true" />
-            <element signature="e#1740#1741#0" expanded="true" />
-            <element signature="e#1790#1791#0" expanded="true" />
-            <element signature="e#1831#1832#0" expanded="true" />
-            <element signature="e#1869#1870#0" expanded="true" />
-            <element signature="e#1930#1931#0" expanded="true" />
-            <element signature="e#1984#1985#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day20state/Introduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/PekingDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/ToyDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/WildDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/FlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/GoodFlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/NoFlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/PekingDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/QuackBehavior.java">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/Introduce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/ToyDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/装饰者模式.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/WildDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/BadFlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/improve/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/demo/JDKArrays/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day21strategy/Introduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/Introduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/Introduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/Approver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/CollegeApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/DepartmentApprover.java">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/Soy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/SchoolMasterApprover.java">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/ShortBlack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/LongBlack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/DeCaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/Chocolate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/ViceSchoolMasterApprover.java">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/demo/CoffeeBar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day22responsibilitychain/demo/PurchaseRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding>
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="20">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day00designPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="513">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/Introduce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="26" column="48" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="48" />
+        <state relative-caret-position="324">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Memento.java">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/introduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/pizza/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/pizza/GreekPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/pizza/PepperPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/order/OrderPizza0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/order/OrderPizza1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-952">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/order/OrderPizza2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/simplefactory01/pizzastore/order/PizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Originator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/introduce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day18memento/demo/theory/Caretaker.java">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/pizza/BJCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/pizza/BJPepperPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/pizza/LDCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/pizza/LDPepperPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/order/BJOrderPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/order/LDOrderPizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/order/OrderPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/factorymethod02/pizzastore/order/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/absfactory03/pizzastore/introduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/absfactory03/pizzastore/pizza/BJCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/absfactory03/pizzastore/order/AbsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/absfactory03/pizzastore/order/BJFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/absfactory03/pizzastore/order/LDFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/absfactory03/pizzastore/order/OrderPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day02factory/absfactory03/pizzastore/order/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/Introduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day15visitor/Introduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/Introduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type1/SingletonTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type2/SingletonTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type3/SingletonTest03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type4/SingletonTest04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type5/SingletonTest05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type6/SingletonTest06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day01singleton/type7/SingletonTest07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>

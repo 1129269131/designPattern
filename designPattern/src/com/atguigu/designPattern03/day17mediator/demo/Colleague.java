@@ -5,6 +5,7 @@ package com.atguigu.designPattern03.day17mediator.demo;
  * Create by koala on 2021-06-08
  */
 public abstract class Colleague {
+
     private Mediator mediator;
     public String name;
 

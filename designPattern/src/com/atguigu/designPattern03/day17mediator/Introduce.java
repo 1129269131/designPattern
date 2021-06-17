@@ -12,7 +12,7 @@ package com.atguigu.designPattern03.day17mediator;
  *      中介者模式的角色及职责：
  *          1）Mediator：就是抽象中介者，它定义了同事对象到中介者对象的接口
  *          2）Colleague：是抽象同事类
- *          3）ConcreteMediator：是具体的中介者对象，实现抽象方法，它需要知道所有的具体的同事类，即以一个集合来管理(如HashMap)，并接受某个同事对象消息，完成相应的任务
+ *          3）ConcreteMediator：是具体的中介者对象，实现抽象方法，它需要知道所有的具体的同事类，即以一个集合来管理(如：HashMap)，并接受某个同事对象消息，完成相应的任务
  *          4）ConcreteColleague：具体的同事类，会有很多个, 每个同事只知道自己的行为，而不了解其他同事类的行为(方法)， 但是他们都依赖中介者对象
  *
  *      注意事项和细节

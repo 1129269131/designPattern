@@ -1,13 +1,9 @@
 package com.atguigu.designPattern03.day05prototype.demo.deepclone1;
 
-import java.io.Serializable;
-
 /**
  * Create by koala on 2021-06-03
  */
-public class DeepCloneableTarget implements Serializable, Cloneable {
-
-    private static final long serialVersionUID = 1L;
+public class DeepCloneableTarget implements Cloneable {
 
     private String cloneName;
 

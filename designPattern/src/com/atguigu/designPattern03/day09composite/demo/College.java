@@ -9,7 +9,7 @@ import java.util.List;
 public class College extends OrganizationComponent {
 
     //List 中 存放的Department
-    List<OrganizationComponent> organizationComponents = new ArrayList<OrganizationComponent>();
+    List<OrganizationComponent> organizationComponents = new ArrayList<>();
 
     // 构造器
     public College(String name, String des) {

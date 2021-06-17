@@ -9,7 +9,7 @@ import java.io.Serializable;
 /**
  * Create by koala on 2021-06-03
  */
-public class DeepProtoType implements Serializable, Cloneable {
+public class DeepProtoType implements Serializable {
 
     public String name; //String 属性
     public DeepCloneableTarget deepCloneableTarget;// 引用类型

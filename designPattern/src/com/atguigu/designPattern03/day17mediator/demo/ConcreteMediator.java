@@ -7,6 +7,7 @@ import java.util.HashMap;
  * Create by koala on 2021-06-08
  */
 public class ConcreteMediator extends Mediator {
+
     //集合，放入所有的同事对象
     private HashMap<String, Colleague> colleagueMap;
     private HashMap<String, String> interMap;
@@ -52,7 +53,6 @@ public class ConcreteMediator extends Mediator {
         } else if (colleagueMap.get(colleagueName) instanceof CoffeeMachine) {
             ((Curtains) (colleagueMap.get(interMap.get("Curtains"))))
                     .UpCurtains();
-
         } else if (colleagueMap.get(colleagueName) instanceof TV) {//如果TV发现消息
 
         } else if (colleagueMap.get(colleagueName) instanceof Curtains) {
