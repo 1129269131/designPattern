@@ -15,7 +15,7 @@ package com.atguigu.designPattern03.day12proxy.demo.cglib;
  *          5）Cglib 包的底层是通过使用字节码处理框架 ASM 来转换字节码并生成新的类
  *
  *      Cglib代理模式实现步骤：
- *          1）需要引入 cglib 的 jar 文件（spring的核心包中已经包括了cglib功能，所以直接引入spring-core.jar即可）
+ *          1）需要引入 cglib 的 jar 文件（spring的核心包中已经包括了cglib功能，所以直接引入spring-core.jar即可--》项目的resource--》spring-core-4.0.0.RELEASE.jar）
  *          2）在内存中动态构建子类，注意代理的类不能为 final，否则报错：java.lang.IllegalArgumentException
  *          3）目标对象的方法如果为 final/static,那么就不会被拦截,即不会执行目标对象额外的业务方法
  * Create by koala on 2021-06-06

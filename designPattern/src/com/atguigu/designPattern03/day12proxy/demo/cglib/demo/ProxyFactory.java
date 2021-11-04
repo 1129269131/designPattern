@@ -24,7 +24,7 @@ public class ProxyFactory implements MethodInterceptor {
     }
 
     //返回一个代理对象：是 target 对象的代理对象
-    public Object getProxyInstance() {
+        public Object getProxyInstance() {
         //1. 创建一个工具类
         Enhancer enhancer = new Enhancer();
         //2. 设置父类
