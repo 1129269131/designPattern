@@ -16,7 +16,7 @@ package com.atguigu.designPattern03;
  *      1、单例模式
  *      2、工厂模式
  *      3、代理模式
- *      4、装饰模式
+ *      4、装饰者模式
  *      5、观察者模式
  */
 public class day00designPattern {
