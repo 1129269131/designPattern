@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="95a9ce1e-06f5-49cb-b87f-7a1e65dea139" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day00designPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day00designPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/improve/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/improve/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/cglib/demo/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/cglib/demo/ProxyFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -327,13 +329,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623901232113" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javaBase/javaBase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java-JUC/juc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -351,13 +353,13 @@
       <recent name="com.atguigu.designPattern03.day02factory.simplefactory01.pizzastore.order" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day04observer.demo.improve.Client" />
+  <component name="RunManager" selected="Application.CoffeeBar">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day12proxy.demo.dynamic.demo.Client" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.designPattern03.day04observer.demo.improve.*" />
+          <option name="PATTERN" value="com.atguigu.designPattern03.day12proxy.demo.dynamic.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day05prototype.demo.deepclone2.Client" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.designPattern03.day04observer.demo.improve.Client" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.designPattern03.day05prototype.demo.deepclone2.*" />
+          <option name="PATTERN" value="com.atguigu.designPattern03.day04observer.demo.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,11 +432,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
         <item itemvalue="Application.CoffeeBar" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (5)" />
-        <item itemvalue="Application.Client (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +479,14 @@
       <workItem from="1636034469884" duration="593000" />
       <workItem from="1639214557099" duration="798000" />
       <workItem from="1639316063290" duration="1565000" />
-      <workItem from="1639396544079" duration="2190000" />
+      <workItem from="1639396544079" duration="2784000" />
+      <workItem from="1639488164609" duration="456000" />
+      <workItem from="1639492114427" duration="604000" />
+      <workItem from="1639569830167" duration="612000" />
+      <workItem from="1639577082619" duration="10000" />
+      <workItem from="1640010216254" duration="1406000" />
+      <workItem from="1640089261093" duration="3851000" />
+      <workItem from="1640175773571" duration="8045000" />
     </task>
     <servers />
   </component>

@@ -9,7 +9,7 @@ package com.atguigu.designPattern03.day04observer.demo;
  */
 public class WeatherData {
 
-    private float temperatrue;
+    private float temperature;
     private float pressure;
     private float humidity;
     private CurrentConditions currentConditions;
@@ -20,7 +20,7 @@ public class WeatherData {
     }
 
     public float getTemperature() {
-        return temperatrue;
+        return temperature;
     }
 
     public float getPressure() {
@@ -38,7 +38,7 @@ public class WeatherData {
 
     //当数据有更新时，就调用 setData
     public void setData(float temperature, float pressure, float humidity) {
-        this.temperatrue = temperature;
+        this.temperature = temperature;
         this.pressure = pressure;
         this.humidity = humidity;
         //调用dataChange，将最新的信息 推送给 接入方 currentConditions

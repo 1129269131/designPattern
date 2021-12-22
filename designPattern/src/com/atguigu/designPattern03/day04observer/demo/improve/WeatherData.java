@@ -11,7 +11,7 @@ import java.util.ArrayList;
  */
 public class WeatherData implements Subject {
 
-    private float temperatrue;
+    private float temperature;
     private float pressure;
     private float humidity;
 
@@ -24,7 +24,7 @@ public class WeatherData implements Subject {
     }
 
     public float getTemperature() {
-        return temperatrue;
+        return temperature;
     }
 
     public float getPressure() {
@@ -42,7 +42,7 @@ public class WeatherData implements Subject {
 
     //当数据有更新时，就调用 setData
     public void setData(float temperature, float pressure, float humidity) {
-        this.temperatrue = temperature;
+        this.temperature = temperature;
         this.pressure = pressure;
         this.humidity = humidity;
         //调用dataChange， 将最新的信息 推送给 接入方 currentConditions
@@ -67,7 +67,7 @@ public class WeatherData implements Subject {
     @Override
     public void notifyObservers() {
         for (int i = 0; i < observers.size(); i++) {
-            observers.get(i).update(this.temperatrue, this.pressure, this.humidity);
+            observers.get(i).update(this.temperature, this.pressure, this.humidity);
         }
     }
 }
