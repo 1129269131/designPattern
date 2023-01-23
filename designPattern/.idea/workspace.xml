@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="95a9ce1e-06f5-49cb-b87f-7a1e65dea139" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/improve/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day04observer/demo/improve/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/cglib/demo/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/designPattern03/day12proxy/demo/cglib/demo/ProxyFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +89,9 @@
     <option name="height" value="742" />
   </component>
   <component name="ProjectId" id="20PXRdOKvr3YWRyZCaZjVoKmIK9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -325,11 +324,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623901232113" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java-JUC/juc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java-MyBatisPlus/MyBatisPlus" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -419,17 +421,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CoffeeBar" />
@@ -487,6 +478,32 @@
       <workItem from="1640010216254" duration="1406000" />
       <workItem from="1640089261093" duration="3851000" />
       <workItem from="1640175773571" duration="8045000" />
+      <workItem from="1640263658723" duration="20000" />
+      <workItem from="1640703668650" duration="20000" />
+      <workItem from="1645535357120" duration="1864000" />
+      <workItem from="1645617927108" duration="625000" />
+      <workItem from="1645706267177" duration="2963000" />
+      <workItem from="1645971305088" duration="3756000" />
+      <workItem from="1646018055063" duration="1208000" />
+      <workItem from="1646919674891" duration="1105000" />
+      <workItem from="1647092706535" duration="3804000" />
+      <workItem from="1647162484030" duration="2182000" />
+      <workItem from="1647173916317" duration="2516000" />
+      <workItem from="1647506179805" duration="2468000" />
+      <workItem from="1647854328952" duration="1490000" />
+      <workItem from="1648538199293" duration="774000" />
+      <workItem from="1648734127556" duration="2317000" />
+      <workItem from="1648794296130" duration="234000" />
+      <workItem from="1659279576048" duration="951000" />
+      <workItem from="1659444103113" duration="117000" />
+      <workItem from="1660401447193" duration="3981000" />
+      <workItem from="1660443012919" duration="1380000" />
+      <workItem from="1670424286644" duration="1769000" />
+      <workItem from="1670545138055" duration="595000" />
+      <workItem from="1670631645205" duration="596000" />
+      <workItem from="1670804348784" duration="596000" />
+      <workItem from="1672790359365" duration="44752000" />
+      <workItem from="1672907091105" duration="608000" />
     </task>
     <servers />
   </component>
@@ -540,6 +557,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/designPattern03/day03decorator/Introduce.java">
